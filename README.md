@@ -44,6 +44,11 @@
   4. Johnnie Simpson: MySQL, CRUD, Handlebars, Linter
 
   ## Usage
+  
+  To log in, use the following credentials: 
+  
+  user: johnnieS@gmail.com
+  password: 1234
 
   Sprinter is designed with you and your development sprints in mind. Use the app to add sprints, add employees and managers to sprints, and keep track of your progress and division of labor as your project progresses. 
 
